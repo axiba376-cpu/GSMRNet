@@ -1,6 +1,6 @@
 # GSMRNet
 
-A deep learning approach for crack detection using GSMRNet (GAN with Spatial Masking and Reconstruction Network).
+A deep learning approach for bridge defects detection using GSMRNet.
 
 ## Requirements
 
